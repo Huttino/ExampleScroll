@@ -25,3 +25,7 @@ section{
     transform: translateX(0);
     transition: all 1s;
 }
+.show img{
+    transform: scale(500%);
+    transition: 10s;
+}
